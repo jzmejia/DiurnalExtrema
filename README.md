@@ -1,5 +1,9 @@
 # DiurnalExtrema
 
+[![DOI](https://zenodo.org/badge/511994691.svg)](https://zenodo.org/badge/latestdoi/511994691)
+
+
+
 Archived version of `diurnal.py` from the `jzmejia/datatools` repository. Archival, July 2022, for script assocaited with publication Mejia et al., 2022. See `datatools` repo for up-to-date script and for contributution. 
 
 
